@@ -1,0 +1,7 @@
+header{
+    background-image: url('/header.jpg');
+    height: calc(100vh - 140px);
+}
+main .card{
+    border: none;
+}

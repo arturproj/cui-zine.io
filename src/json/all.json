@@ -1,0 +1,37 @@
+[
+    {
+        "id":"suzette",
+        "name":"Chez Suzette, la nouvelle creperie qui fait parler d'elle",
+        "url":"/blog?recipe=suzette",
+        "small":"/articles/suzette/suzette-small.jpg",
+        "header":"/articles/suzette/suzette-header.jpg",
+        "description":"La franchise 'Chez Suzette' qui fait un carton chez les bretons ouvre son premier restaurant à Paris dans le quartier latin. Antoine de Cui`zine a testé pour vous les saveurs sucrés, salés au froment ou au sarrazin!",
+        "subtitle":""
+    },
+    {
+        "id":"metro",
+        "name":"Le Métro dessert",
+        "url":"/blog?recipe=metro",
+        "small":"/articles/metro/metro-small.jpg",
+        "header":"/articles/metro/metro-header.jpg",
+        "description":"Germain est ferrovipathe (ndlr: fan de train), son fils Maxime est patissier, Ils ont décidé de réunir leur deux passions dans un restaurant à la déco inspiré du métro parisien. A voir absolument, mais qu'en est-il d'y aller pour manger ? Clémentine entre en gare et nous donne son avis",
+        "subtitle":""
+    },
+    {
+        "id":"vitaly",
+        "name":"Vitaly, le végan italien",
+        "url":"/blog?recipe=vitaly",
+        "small":"/articles/vitaly/vitaly-small.jpg",
+        "header":"/articles/vitaly/vitaly-header.jpg",
+        "description":"Quand on pense italien, on pense lasagne et jambon de Parme. Ils l'ont fait, les saveurs de l'Italie à portée des herbivores. Cette fois, c'est moi Tony qui vais le tester pour vous.",
+        "subtitle":""
+    },{
+        "id":"paella",
+        "name":"Paella",
+        "url":"/blog?recipe=paella",
+        "small":"/recipes/paella/paella-small.jpg",
+        "header":"/recipes/paella/paella-header.jpg",
+        "description":"Est un plat espagnol traditionnel à base de riz, de safran et de fruits de mer ou de viande. Originaire de la Communauté valencienne et ensuite diffusé dans toute l'Espagne!",
+        "subtitle":""
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "name":"tony",
+        "foto":"/team/tony.jpg",
+        "profession":"rédacteur en chef",
+        "bio":"/equipe?tech=tony&prof=rédacteur en chef"
+        
+    },
+    {
+        "name":"clementine",
+        "foto":"/team/clementine.jpg",
+        "profession":"journaliste culinaire",
+        "bio":"/equipe?tech=clementine&prof=journaliste culinaire"
+    },
+    {
+        "name":"antoine",
+        "foto":"/team/antoine.jpg",
+        "profession":"gouteur professionnel",
+        "bio":"/equipe?tech=antoine&prof=gouteur professionnel"
+    },
+    {
+        "name":"tony",
+        "foto":"/team/tony.jpg",
+        "profession":"rédacteur en chef",
+        "bio":"/equipe?tech=tony&prof=rédacteur en chef"
+        
+    },
+    {
+        "name":"clementine",
+        "foto":"/team/clementine.jpg",
+        "profession":"journaliste culinaire",
+        "bio":"/equipe?tech=clementine&prof=journaliste culinaire"
+    },
+    {
+        "name":"antoine",
+        "foto":"/team/antoine.jpg",
+        "profession":"gouteur professionnel",
+        "bio":"/equipe?tech=antoine&prof=gouteur professionnel"
+    }
+]

@@ -1,0 +1,7 @@
+header{
+  height: calc(100vh - 81px);
+}
+
+main .card{
+  border: none;
+}

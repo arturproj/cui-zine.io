@@ -1,0 +1,11 @@
+[    
+    {
+        "id":"paella",
+        "name":"Paella",
+        "url":"/blog?recipe=paella",
+        "small":"/recipes/paella/paella-small.jpg",
+        "header":"/recipes/paella/paella-header.jpg",
+        "description":"Est un plat espagnol traditionnel à base de riz, de safran et de fruits de mer ou de viande. Originaire de la Communauté valencienne et ensuite diffusé dans toute l'Espagne!",
+        "subtitle":""
+    }
+]
